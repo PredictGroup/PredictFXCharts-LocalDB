@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 18.5" name="consoledb2Data">
+  <DataContextMoniker Name="/consoledb2DataDataContext" />
+  <nestedChildShapes>
+    <classShape Id="e3bc14cf-8f7c-43a9-97f8-126db67f4679" absoluteBounds="6.5, 11.875, 2, 2.4109318033854166">
+      <DataClassMoniker Name="/consoledb2DataDataContext/orders" />
+      <nestedChildShapes>
+        <elementListCompartment Id="02753a97-fde9-4f9c-aeea-a6fb7c9a920c" absoluteBounds="6.5150000000000006, 12.335, 1.9700000000000002, 1.8509318033854165" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="eb71ad02-4d4c-402b-adb7-c712625d1bac" absoluteBounds="3.5, 15.875, 2, 2.4109318033854166">
+      <DataClassMoniker Name="/consoledb2DataDataContext/positions" />
+      <nestedChildShapes>
+        <elementListCompartment Id="dd568109-7a4f-4239-9918-3ccc50e3744e" absoluteBounds="3.5149999999999997, 16.335, 1.9700000000000002, 1.8509318033854165" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="70740728-b1a0-4fc7-a1d1-1958310b7eb6" absoluteBounds="3.5, 3.625, 2, 7.0126570638020809">
+      <DataClassMoniker Name="/consoledb2DataDataContext/settingquotes" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8619eaa1-7f23-49c2-95b4-10b345bc6848" absoluteBounds="3.5150000000000006, 4.0850000000000009, 1.9700000000000002, 6.452657063802083" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="decec6e1-a05f-4782-904a-a5765fecbc57" absoluteBounds="0.75, 12.25, 2, 1.5891951497395809">
+      <DataClassMoniker Name="/consoledb2DataDataContext/stocks" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c5316cd3-4329-44c6-89f0-3031354b1bc2" absoluteBounds="0.76500000059604645, 12.71000000089407, 1.9700000000000002, 1.0291951497395833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="44fb6010-d66e-43f8-b7ca-1748564e088e" absoluteBounds="0.75, 6.25, 2, 1.5891951497395809">
+      <DataClassMoniker Name="/consoledb2DataDataContext/timeframes" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ce013213-fe91-4c1e-bdc7-031dc03627ef" absoluteBounds="0.76499999999999968, 6.7100000000000009, 1.9700000000000002, 1.0291951497395833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="61b587d7-522f-4b14-8dca-9be203fc7df8" absoluteBounds="3.75, 1.5, 2, 1.0961531575520809">
+      <DataClassMoniker Name="/consoledb2DataDataContext/tradetypes" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c793b30b-edc3-4e47-9fd3-ad26d007458a" absoluteBounds="3.765, 1.9600000000000009, 1.9700000000000002, 0.53615315755208326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e47c81d9-6c29-4624-a39b-7390aa1128af" absoluteBounds="6.25, 15.125, 2, 1.9178898111979166">
+      <DataClassMoniker Name="/consoledb2DataDataContext/valueatrisk" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4e378987-6fb9-4dd8-9713-3a426ba807df" absoluteBounds="6.2650000000000006, 15.585, 1.9700000000000002, 1.3578898111979165" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 13.0445975748698); (3.25 : 13.0445975748698); (3.25 : 11.5); (3.29166666666667 : 11.5 : JumpStart); (3.45833333333333 : 11.5 : JumpEnd); (6.04166666666667 : 11.5 : JumpStart); (6.20833333333333 : 11.5 : JumpEnd); (7.5 : 11.5); (7.5 : 11.875)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/consoledb2DataDataContext/stocks/stocks_orders" />
+      <nodes>
+        <classShapeMoniker Id="decec6e1-a05f-4782-904a-a5765fecbc57" />
+        <classShapeMoniker Id="e3bc14cf-8f7c-43a9-97f8-126db67f4679" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.75 : 13.8391951497396); (1.75 : 17.0804659016927); (3.5 : 17.0804659016927)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/consoledb2DataDataContext/stocks/stocks_positions" />
+      <nodes>
+        <classShapeMoniker Id="decec6e1-a05f-4782-904a-a5765fecbc57" />
+        <classShapeMoniker Id="eb71ad02-4d4c-402b-adb7-c712625d1bac" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 12.25); (3.125 : 11.875); (3.125 : 7.13132853190104); (3.29166666666667 : 7.13132853190104 : JumpStart); (3.45833333333333 : 7.13132853190104 : JumpEnd); (3.5 : 7.13132853190104)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/consoledb2DataDataContext/stocks/stocks_settingquotes" />
+      <nodes>
+        <classShapeMoniker Id="decec6e1-a05f-4782-904a-a5765fecbc57" />
+        <classShapeMoniker Id="70740728-b1a0-4fc7-a1d1-1958310b7eb6" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 6.62816426595052); (3.29166666666667 : 6.62816426595052 : JumpStart); (3.45833333333333 : 6.62816426595052 : JumpEnd); (3.5 : 6.62816426595052)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/consoledb2DataDataContext/timeframes/timeframes_settingquotes" />
+      <nodes>
+        <classShapeMoniker Id="44fb6010-d66e-43f8-b7ca-1748564e088e" />
+        <classShapeMoniker Id="70740728-b1a0-4fc7-a1d1-1958310b7eb6" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.75 : 2.59615315755208); (6.125 : 2.97115315755208); (6.125 : 13.0804659016927); (6.5 : 13.0804659016927)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/consoledb2DataDataContext/tradetypes/tradetypes_orders" />
+      <nodes>
+        <classShapeMoniker Id="61b587d7-522f-4b14-8dca-9be203fc7df8" />
+        <classShapeMoniker Id="e3bc14cf-8f7c-43a9-97f8-126db67f4679" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(3.75 : 2.59615315755208); (3.375 : 2.97115315755208); (3.375 : 15.7484625384615); (3.50153746153846 : 15.875)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/consoledb2DataDataContext/tradetypes/tradetypes_positions" />
+      <nodes>
+        <classShapeMoniker Id="61b587d7-522f-4b14-8dca-9be203fc7df8" />
+        <classShapeMoniker Id="eb71ad02-4d4c-402b-adb7-c712625d1bac" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.2812525 : 13.8391951497396); (2.2812525 : 15.46875); (3.29166666666667 : 15.46875 : JumpStart); (3.45833333333333 : 15.46875 : JumpEnd); (6.25 : 15.46875)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/consoledb2DataDataContext/stocks/stocks_valueatrisk" />
+      <nodes>
+        <classShapeMoniker Id="decec6e1-a05f-4782-904a-a5765fecbc57" />
+        <classShapeMoniker Id="e47c81d9-6c29-4624-a39b-7390aa1128af" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 7.81230007797476); (3.06607443490112 : 8.12837451287588 : JumpStart); (3.18392556509888 : 8.24622564307364 : JumpEnd); (3.3125 : 8.37480007797476); (3.3125 : 14.75); (5.875 : 14.75); (6.25 : 15.125)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/consoledb2DataDataContext/timeframes/timeframes_valueatrisk" />
+      <nodes>
+        <classShapeMoniker Id="44fb6010-d66e-43f8-b7ca-1748564e088e" />
+        <classShapeMoniker Id="e47c81d9-6c29-4624-a39b-7390aa1128af" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="156d61f8-edcd-47da-878a-f3e4251e9344" absoluteBounds="6.5, 9, 2, 2.0822371419270809">
+      <DataClassMoniker Name="/consoledb2DataDataContext/tickquotes" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b6e54ea7-2b4d-477d-af0a-287b90f63a53" absoluteBounds="6.5150000000000006, 9.46, 1.9700000000000002, 1.5222371419270833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(1.7187475 : 12.25); (1.7187475 : 10.8911971028646); (3.04166666666667 : 10.8911971028646 : JumpStart); (3.45833333333333 : 10.8911971028646 : JumpEnd); (6.04166666666667 : 10.8911971028646 : JumpStart); (6.20833333333333 : 10.8911971028646 : JumpEnd); (6.5 : 10.8911971028646)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/consoledb2DataDataContext/stocks/stocks_tickquotes" />
+      <nodes>
+        <classShapeMoniker Id="decec6e1-a05f-4782-904a-a5765fecbc57" />
+        <classShapeMoniker Id="156d61f8-edcd-47da-878a-f3e4251e9344" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.6249975 : 2.59615315755208); (5.6249975 : 10.7644245833333); (6.04166666666667 : 10.7644245833333 : JumpStart); (6.20833333333333 : 10.7644245833333 : JumpEnd); (6.5 : 10.7644245833333)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/consoledb2DataDataContext/tradetypes/tradetypes_tickquotes" />
+      <nodes>
+        <classShapeMoniker Id="61b587d7-522f-4b14-8dca-9be203fc7df8" />
+        <classShapeMoniker Id="156d61f8-edcd-47da-878a-f3e4251e9344" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="667ced65-e3ba-4eac-abeb-2e3cbadb9cd8" absoluteBounds="3.5, 11.75, 2, 2.7396264648437487">
+      <DataClassMoniker Name="/consoledb2DataDataContext/volquotes" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7d615c36-a28c-44ad-941d-1a40a2170ccc" absoluteBounds="3.5149999999999997, 12.21, 1.9700000000000002, 2.17962646484375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.5 : 14.4190291341146); (6.3750025 : 14.4190291341146); (6.3750025 : 15.125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/consoledb2DataDataContext/volquotes/volquotes_valueatrisk" />
+      <nodes>
+        <classShapeMoniker Id="667ced65-e3ba-4eac-abeb-2e3cbadb9cd8" />
+        <classShapeMoniker Id="e47c81d9-6c29-4624-a39b-7390aa1128af" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 13.5043963623047); (3.22916666666667 : 13.5043963623047 : JumpStart); (3.45833333333333 : 13.5043963623047 : JumpEnd); (3.5 : 13.5043963623047)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/consoledb2DataDataContext/stocks/stocks_volquotes" />
+      <nodes>
+        <classShapeMoniker Id="decec6e1-a05f-4782-904a-a5765fecbc57" />
+        <classShapeMoniker Id="667ced65-e3ba-4eac-abeb-2e3cbadb9cd8" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 7.83430431850961); (3.15625 : 8.24055431850961); (3.15625 : 12.3972992874349); (3.16666666666667 : 12.3972992874349 : JumpStart); (3.45833333333333 : 12.3972992874349 : JumpEnd); (3.5 : 12.3972992874349)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/consoledb2DataDataContext/timeframes/timeframes_volquotes" />
+      <nodes>
+        <classShapeMoniker Id="44fb6010-d66e-43f8-b7ca-1748564e088e" />
+        <classShapeMoniker Id="667ced65-e3ba-4eac-abeb-2e3cbadb9cd8" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

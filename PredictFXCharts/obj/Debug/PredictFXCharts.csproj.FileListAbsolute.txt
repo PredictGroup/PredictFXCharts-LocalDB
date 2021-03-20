@@ -1,0 +1,328 @@
+C:\Users\pc\Documents\Visual Studio 2012\Projects\PredictFXCharts\PredictFXCharts\bin\Debug\PredictFXCharts.exe.config
+C:\Users\pc\Documents\Visual Studio 2012\Projects\PredictFXCharts\PredictFXCharts\bin\Debug\PredictFXCharts.exe
+C:\Users\pc\Documents\Visual Studio 2012\Projects\PredictFXCharts\PredictFXCharts\bin\Debug\PredictFXCharts.pdb
+C:\Users\pc\Documents\Visual Studio 2012\Projects\PredictFXCharts\PredictFXCharts\bin\Debug\Moq.dll
+C:\Users\pc\Documents\Visual Studio 2012\Projects\PredictFXCharts\PredictFXCharts\bin\Debug\NDde.dll
+C:\Users\pc\Documents\Visual Studio 2012\Projects\PredictFXCharts\PredictFXCharts\bin\Debug\netchartdir.dll
+C:\Users\pc\Documents\Visual Studio 2012\Projects\PredictFXCharts\PredictFXCharts\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\pc\Documents\Visual Studio 2012\Projects\PredictFXCharts\PredictFXCharts\bin\Debug\Moq.pdb
+C:\Users\pc\Documents\Visual Studio 2012\Projects\PredictFXCharts\PredictFXCharts\bin\Debug\Moq.xml
+C:\Users\pc\Documents\Visual Studio 2012\Projects\PredictFXCharts\PredictFXCharts\bin\Debug\NDde.pdb
+C:\Users\pc\Documents\Visual Studio 2012\Projects\PredictFXCharts\PredictFXCharts\bin\Debug\NDde.xml
+C:\Users\pc\Documents\Visual Studio 2012\Projects\PredictFXCharts\PredictFXCharts\bin\Debug\netchartdir.xml
+C:\Users\pc\Documents\Visual Studio 2012\Projects\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2012\Projects\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.frmAbout.resources
+C:\Users\pc\Documents\Visual Studio 2012\Projects\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.frmParameters.resources
+C:\Users\pc\Documents\Visual Studio 2012\Projects\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.PredictFXChartsMain.resources
+C:\Users\pc\Documents\Visual Studio 2012\Projects\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.Properties.Resources.resources
+C:\Users\pc\Documents\Visual Studio 2012\Projects\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.csproj.GenerateResource.Cache
+C:\Users\pc\Documents\Visual Studio 2012\Projects\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.exe
+C:\Users\pc\Documents\Visual Studio 2012\Projects\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.pdb
+S:\Private Documents\AlgoTrading\PredictFXCharts\PredictFXCharts\bin\Debug\PredictFXCharts.exe.config
+S:\Private Documents\AlgoTrading\PredictFXCharts\PredictFXCharts\bin\Debug\PredictFXCharts.exe
+S:\Private Documents\AlgoTrading\PredictFXCharts\PredictFXCharts\bin\Debug\PredictFXCharts.pdb
+S:\Private Documents\AlgoTrading\PredictFXCharts\PredictFXCharts\bin\Debug\Moq.dll
+S:\Private Documents\AlgoTrading\PredictFXCharts\PredictFXCharts\bin\Debug\NDde.dll
+S:\Private Documents\AlgoTrading\PredictFXCharts\PredictFXCharts\bin\Debug\System.Threading.Tasks.Dataflow.dll
+S:\Private Documents\AlgoTrading\PredictFXCharts\PredictFXCharts\bin\Debug\Moq.pdb
+S:\Private Documents\AlgoTrading\PredictFXCharts\PredictFXCharts\bin\Debug\Moq.xml
+S:\Private Documents\AlgoTrading\PredictFXCharts\PredictFXCharts\bin\Debug\NDde.pdb
+S:\Private Documents\AlgoTrading\PredictFXCharts\PredictFXCharts\bin\Debug\NDde.xml
+S:\Private Documents\AlgoTrading\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.frmAbout.resources
+S:\Private Documents\AlgoTrading\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.frmParameters.resources
+S:\Private Documents\AlgoTrading\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.PredictFXChartsMain.resources
+S:\Private Documents\AlgoTrading\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.Properties.Resources.resources
+S:\Private Documents\AlgoTrading\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.csproj.GenerateResource.Cache
+S:\Private Documents\AlgoTrading\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.exe
+S:\Private Documents\AlgoTrading\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.pdb
+C:\Users\admin\Documents\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.frmAbout.resources
+C:\Users\admin\Documents\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.frmParameters.resources
+C:\Users\admin\Documents\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.PredictFXChartsMain.resources
+C:\Users\admin\Documents\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.Properties.Resources.resources
+C:\Users\admin\Documents\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.csproj.GenerateResource.cache
+C:\Users\admin\Documents\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\PredictFXCharts\PredictFXCharts\bin\Debug\PredictFXCharts.exe.config
+C:\Users\admin\Documents\PredictFXCharts\PredictFXCharts\bin\Debug\PredictFXCharts.exe
+C:\Users\admin\Documents\PredictFXCharts\PredictFXCharts\bin\Debug\PredictFXCharts.pdb
+C:\Users\admin\Documents\PredictFXCharts\PredictFXCharts\bin\Debug\Devart.Data.dll
+C:\Users\admin\Documents\PredictFXCharts\PredictFXCharts\bin\Debug\Devart.Data.Linq.dll
+C:\Users\admin\Documents\PredictFXCharts\PredictFXCharts\bin\Debug\Devart.Data.PostgreSql.dll
+C:\Users\admin\Documents\PredictFXCharts\PredictFXCharts\bin\Debug\Devart.Data.PostgreSql.Linq.dll
+C:\Users\admin\Documents\PredictFXCharts\PredictFXCharts\bin\Debug\Moq.dll
+C:\Users\admin\Documents\PredictFXCharts\PredictFXCharts\bin\Debug\NDde.dll
+C:\Users\admin\Documents\PredictFXCharts\PredictFXCharts\bin\Debug\Npgsql.dll
+C:\Users\admin\Documents\PredictFXCharts\PredictFXCharts\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\admin\Documents\PredictFXCharts\PredictFXCharts\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Documents\PredictFXCharts\PredictFXCharts\bin\Debug\Moq.pdb
+C:\Users\admin\Documents\PredictFXCharts\PredictFXCharts\bin\Debug\Moq.xml
+C:\Users\admin\Documents\PredictFXCharts\PredictFXCharts\bin\Debug\NDde.pdb
+C:\Users\admin\Documents\PredictFXCharts\PredictFXCharts\bin\Debug\NDde.xml
+C:\Users\admin\Documents\PredictFXCharts\PredictFXCharts\bin\Debug\Npgsql.xml
+C:\Users\admin\Documents\PredictFXCharts\PredictFXCharts\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\admin\Documents\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.csproj.CopyComplete
+C:\Users\admin\Documents\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.exe
+C:\Users\admin\Documents\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.pdb
+C:\Users\admin\Documents\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.csprojAssemblyReference.cache
+C:\Users\andy\Documents\PredictFXCharts\PredictFXCharts\bin\Debug\PredictFXCharts.exe.config
+C:\Users\andy\Documents\PredictFXCharts\PredictFXCharts\bin\Debug\PredictFXCharts.exe
+C:\Users\andy\Documents\PredictFXCharts\PredictFXCharts\bin\Debug\PredictFXCharts.pdb
+C:\Users\andy\Documents\PredictFXCharts\PredictFXCharts\bin\Debug\Moq.dll
+C:\Users\andy\Documents\PredictFXCharts\PredictFXCharts\bin\Debug\NDde.dll
+C:\Users\andy\Documents\PredictFXCharts\PredictFXCharts\bin\Debug\Npgsql.dll
+C:\Users\andy\Documents\PredictFXCharts\PredictFXCharts\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\andy\Documents\PredictFXCharts\PredictFXCharts\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\andy\Documents\PredictFXCharts\PredictFXCharts\bin\Debug\Moq.pdb
+C:\Users\andy\Documents\PredictFXCharts\PredictFXCharts\bin\Debug\Moq.xml
+C:\Users\andy\Documents\PredictFXCharts\PredictFXCharts\bin\Debug\NDde.pdb
+C:\Users\andy\Documents\PredictFXCharts\PredictFXCharts\bin\Debug\NDde.xml
+C:\Users\andy\Documents\PredictFXCharts\PredictFXCharts\bin\Debug\Npgsql.xml
+C:\Users\andy\Documents\PredictFXCharts\PredictFXCharts\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\andy\Documents\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.frmAbout.resources
+C:\Users\andy\Documents\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.frmParameters.resources
+C:\Users\andy\Documents\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.PredictFXChartsMain.resources
+C:\Users\andy\Documents\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.Properties.Resources.resources
+C:\Users\andy\Documents\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.csproj.GenerateResource.cache
+C:\Users\andy\Documents\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.csproj.CoreCompileInputs.cache
+C:\Users\andy\Documents\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.csproj.CopyComplete
+C:\Users\andy\Documents\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.exe
+C:\Users\andy\Documents\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.pdb
+C:\Users\andy\Documents\PredictFXCharts\PredictFXCharts\bin\Debug\Devart.Data.dll
+C:\Users\andy\Documents\PredictFXCharts\PredictFXCharts\bin\Debug\Devart.Data.Linq.dll
+C:\Users\andy\Documents\PredictFXCharts\PredictFXCharts\bin\Debug\Devart.Data.PostgreSql.dll
+C:\Users\andy\Documents\PredictFXCharts\PredictFXCharts\bin\Debug\Devart.Data.PostgreSql.Linq.dll
+C:\Users\andy\Documents\PredictFXCharts\PredictFXCharts\bin\Debug\Devart.Data.xml
+C:\Users\andy\Documents\PredictFXCharts\PredictFXCharts\bin\Debug\Devart.Data.PostgreSql.xml
+C:\Users\andy\Documents\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.csprojAssemblyReference.cache
+C:\Users\andy\Documents\PredictFXCharts\PredictFXCharts\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\andy\Documents\PredictFXCharts\PredictFXCharts\bin\Debug\System.ValueTuple.dll
+C:\Users\andy\Documents\PredictFXCharts\PredictFXCharts\bin\Debug\Npgsql.pdb
+C:\Users\andy\Documents\PredictFXCharts\PredictFXCharts\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\andy\Documents\PredictFXCharts\PredictFXCharts\bin\Debug\System.ValueTuple.xml
+S:\CSharpProjects\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.csprojAssemblyReference.cache
+S:\CSharpProjects\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.frmAbout.resources
+S:\CSharpProjects\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.frmParameters.resources
+S:\CSharpProjects\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.PredictFXChartsMain.resources
+S:\CSharpProjects\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.Properties.Resources.resources
+S:\CSharpProjects\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.csproj.GenerateResource.cache
+S:\CSharpProjects\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.csproj.CoreCompileInputs.cache
+S:\CSharpProjects\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.exe
+S:\CSharpProjects\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.pdb
+S:\CSharpProjects\PredictFXCharts\PredictFXCharts\bin\Debug\PredictFXCharts.exe.config
+S:\CSharpProjects\PredictFXCharts\PredictFXCharts\bin\Debug\PredictFXCharts.exe
+S:\CSharpProjects\PredictFXCharts\PredictFXCharts\bin\Debug\PredictFXCharts.pdb
+S:\CSharpProjects\PredictFXCharts\PredictFXCharts\bin\Debug\Moq.dll
+S:\CSharpProjects\PredictFXCharts\PredictFXCharts\bin\Debug\NDde.dll
+S:\CSharpProjects\PredictFXCharts\PredictFXCharts\bin\Debug\Npgsql.dll
+S:\CSharpProjects\PredictFXCharts\PredictFXCharts\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+S:\CSharpProjects\PredictFXCharts\PredictFXCharts\bin\Debug\System.Threading.Tasks.Dataflow.dll
+S:\CSharpProjects\PredictFXCharts\PredictFXCharts\bin\Debug\System.Threading.Tasks.Extensions.dll
+S:\CSharpProjects\PredictFXCharts\PredictFXCharts\bin\Debug\System.ValueTuple.dll
+S:\CSharpProjects\PredictFXCharts\PredictFXCharts\bin\Debug\Moq.pdb
+S:\CSharpProjects\PredictFXCharts\PredictFXCharts\bin\Debug\Moq.xml
+S:\CSharpProjects\PredictFXCharts\PredictFXCharts\bin\Debug\NDde.pdb
+S:\CSharpProjects\PredictFXCharts\PredictFXCharts\bin\Debug\NDde.xml
+S:\CSharpProjects\PredictFXCharts\PredictFXCharts\bin\Debug\Npgsql.pdb
+S:\CSharpProjects\PredictFXCharts\PredictFXCharts\bin\Debug\Npgsql.xml
+S:\CSharpProjects\PredictFXCharts\PredictFXCharts\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+S:\CSharpProjects\PredictFXCharts\PredictFXCharts\bin\Debug\System.Threading.Tasks.Extensions.xml
+S:\CSharpProjects\PredictFXCharts\PredictFXCharts\bin\Debug\System.ValueTuple.xml
+S:\CSharpProjects\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.csproj.CopyComplete
+S:\CSharpProjects\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.frmBestRand.resources
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.csprojAssemblyReference.cache
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.frmAbout.resources
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.frmBestRand.resources
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.frmParameters.resources
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.PredictFXChartsMain.resources
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.Properties.Resources.resources
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.csproj.GenerateResource.cache
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.csproj.CoreCompileInputs.cache
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.exe
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.pdb
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts\PredictFXCharts\bin\Debug\PredictFXCharts.exe.config
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts\PredictFXCharts\bin\Debug\PredictFXCharts.exe
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts\PredictFXCharts\bin\Debug\PredictFXCharts.pdb
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts\PredictFXCharts\bin\Debug\Moq.dll
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts\PredictFXCharts\bin\Debug\NDde.dll
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts\PredictFXCharts\bin\Debug\Npgsql.dll
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts\PredictFXCharts\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts\PredictFXCharts\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts\PredictFXCharts\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts\PredictFXCharts\bin\Debug\System.ValueTuple.dll
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts\PredictFXCharts\bin\Debug\Moq.pdb
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts\PredictFXCharts\bin\Debug\Moq.xml
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts\PredictFXCharts\bin\Debug\NDde.pdb
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts\PredictFXCharts\bin\Debug\NDde.xml
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts\PredictFXCharts\bin\Debug\Npgsql.pdb
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts\PredictFXCharts\bin\Debug\Npgsql.xml
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts\PredictFXCharts\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts\PredictFXCharts\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts\PredictFXCharts\bin\Debug\System.ValueTuple.xml
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts\PredictFXCharts\obj\Debug\PredictFXCharts.csproj.CopyComplete
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\consoledb2.mdf
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\consoledb2_log.ldf
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\PredictFXCharts.exe.config
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\PredictFXCharts.exe
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\PredictFXCharts.pdb
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\Moq.dll
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\NDde.dll
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\Npgsql.dll
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\System.ValueTuple.dll
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\Moq.pdb
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\Moq.xml
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\NDde.pdb
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\NDde.xml
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\Npgsql.pdb
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\Npgsql.xml
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\System.ValueTuple.xml
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.csprojAssemblyReference.cache
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.frmAbout.resources
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.frmBestRand.resources
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.frmParameters.resources
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.PredictFXChartsMain.resources
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.Properties.Resources.resources
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.csproj.GenerateResource.cache
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.csproj.CoreCompileInputs.cache
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.csproj.CopyComplete
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.exe
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.pdb
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\netchartdir.dll
+C:\Users\Andy\Documents\CSharpProjects\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\netchartdir.xml
+C:\Users\Andy\Documents\PFXCharts_LocalDB\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\consoledb2.mdf
+C:\Users\Andy\Documents\PFXCharts_LocalDB\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\consoledb2_log.ldf
+C:\Users\Andy\Documents\PFXCharts_LocalDB\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\PredictFXCharts.exe.config
+C:\Users\Andy\Documents\PFXCharts_LocalDB\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\PredictFXCharts.exe
+C:\Users\Andy\Documents\PFXCharts_LocalDB\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\PredictFXCharts.pdb
+C:\Users\Andy\Documents\PFXCharts_LocalDB\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\Moq.dll
+C:\Users\Andy\Documents\PFXCharts_LocalDB\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\NDde.dll
+C:\Users\Andy\Documents\PFXCharts_LocalDB\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\netchartdir.dll
+C:\Users\Andy\Documents\PFXCharts_LocalDB\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\Npgsql.dll
+C:\Users\Andy\Documents\PFXCharts_LocalDB\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Andy\Documents\PFXCharts_LocalDB\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Andy\Documents\PFXCharts_LocalDB\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Andy\Documents\PFXCharts_LocalDB\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\System.ValueTuple.dll
+C:\Users\Andy\Documents\PFXCharts_LocalDB\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\Moq.pdb
+C:\Users\Andy\Documents\PFXCharts_LocalDB\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\Moq.xml
+C:\Users\Andy\Documents\PFXCharts_LocalDB\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\NDde.pdb
+C:\Users\Andy\Documents\PFXCharts_LocalDB\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\NDde.xml
+C:\Users\Andy\Documents\PFXCharts_LocalDB\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\netchartdir.xml
+C:\Users\Andy\Documents\PFXCharts_LocalDB\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\Npgsql.pdb
+C:\Users\Andy\Documents\PFXCharts_LocalDB\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\Npgsql.xml
+C:\Users\Andy\Documents\PFXCharts_LocalDB\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Andy\Documents\PFXCharts_LocalDB\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Andy\Documents\PFXCharts_LocalDB\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\System.ValueTuple.xml
+C:\Users\Andy\Documents\PFXCharts_LocalDB\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.csprojAssemblyReference.cache
+C:\Users\Andy\Documents\PFXCharts_LocalDB\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.frmAbout.resources
+C:\Users\Andy\Documents\PFXCharts_LocalDB\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.frmBestRand.resources
+C:\Users\Andy\Documents\PFXCharts_LocalDB\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.frmParameters.resources
+C:\Users\Andy\Documents\PFXCharts_LocalDB\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.PredictFXChartsMain.resources
+C:\Users\Andy\Documents\PFXCharts_LocalDB\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.Properties.Resources.resources
+C:\Users\Andy\Documents\PFXCharts_LocalDB\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.csproj.GenerateResource.cache
+C:\Users\Andy\Documents\PFXCharts_LocalDB\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.csproj.CoreCompileInputs.cache
+C:\Users\Andy\Documents\PFXCharts_LocalDB\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.csproj.CopyComplete
+C:\Users\Andy\Documents\PFXCharts_LocalDB\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.exe
+C:\Users\Andy\Documents\PFXCharts_LocalDB\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.pdb
+C:\Users\Andy\Documents\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\consoledb2.mdf
+C:\Users\Andy\Documents\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\consoledb2_log.ldf
+C:\Users\Andy\Documents\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\PredictFXCharts.exe.config
+C:\Users\Andy\Documents\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\PredictFXCharts.exe
+C:\Users\Andy\Documents\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\PredictFXCharts.pdb
+C:\Users\Andy\Documents\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\Moq.dll
+C:\Users\Andy\Documents\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\NDde.dll
+C:\Users\Andy\Documents\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\netchartdir.dll
+C:\Users\Andy\Documents\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\Npgsql.dll
+C:\Users\Andy\Documents\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Andy\Documents\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Andy\Documents\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Andy\Documents\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\System.ValueTuple.dll
+C:\Users\Andy\Documents\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\Moq.pdb
+C:\Users\Andy\Documents\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\Moq.xml
+C:\Users\Andy\Documents\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\NDde.pdb
+C:\Users\Andy\Documents\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\NDde.xml
+C:\Users\Andy\Documents\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\netchartdir.xml
+C:\Users\Andy\Documents\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\Npgsql.pdb
+C:\Users\Andy\Documents\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\Npgsql.xml
+C:\Users\Andy\Documents\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Andy\Documents\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Andy\Documents\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\System.ValueTuple.xml
+C:\Users\Andy\Documents\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.csprojAssemblyReference.cache
+C:\Users\Andy\Documents\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.frmAbout.resources
+C:\Users\Andy\Documents\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.frmBestRand.resources
+C:\Users\Andy\Documents\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.frmParameters.resources
+C:\Users\Andy\Documents\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.PredictFXChartsMain.resources
+C:\Users\Andy\Documents\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.Properties.Resources.resources
+C:\Users\Andy\Documents\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.csproj.GenerateResource.cache
+C:\Users\Andy\Documents\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.csproj.CoreCompileInputs.cache
+C:\Users\Andy\Documents\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.csproj.CopyComplete
+C:\Users\Andy\Documents\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.exe
+C:\Users\Andy\Documents\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.pdb
+G:\Docs\Prvt\AlgoTrading\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\consoledb2.mdf
+G:\Docs\Prvt\AlgoTrading\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\consoledb2_log.ldf
+G:\Docs\Prvt\AlgoTrading\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\PredictFXCharts.exe.config
+G:\Docs\Prvt\AlgoTrading\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\PredictFXCharts.exe
+G:\Docs\Prvt\AlgoTrading\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\PredictFXCharts.pdb
+G:\Docs\Prvt\AlgoTrading\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\Moq.dll
+G:\Docs\Prvt\AlgoTrading\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\NDde.dll
+G:\Docs\Prvt\AlgoTrading\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\netchartdir.dll
+G:\Docs\Prvt\AlgoTrading\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\Npgsql.dll
+G:\Docs\Prvt\AlgoTrading\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Docs\Prvt\AlgoTrading\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\System.Threading.Tasks.Dataflow.dll
+G:\Docs\Prvt\AlgoTrading\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\Docs\Prvt\AlgoTrading\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\System.ValueTuple.dll
+G:\Docs\Prvt\AlgoTrading\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\Moq.pdb
+G:\Docs\Prvt\AlgoTrading\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\Moq.xml
+G:\Docs\Prvt\AlgoTrading\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\NDde.pdb
+G:\Docs\Prvt\AlgoTrading\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\NDde.xml
+G:\Docs\Prvt\AlgoTrading\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\netchartdir.xml
+G:\Docs\Prvt\AlgoTrading\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\Npgsql.pdb
+G:\Docs\Prvt\AlgoTrading\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\Npgsql.xml
+G:\Docs\Prvt\AlgoTrading\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\Docs\Prvt\AlgoTrading\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\Docs\Prvt\AlgoTrading\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\System.ValueTuple.xml
+G:\Docs\Prvt\AlgoTrading\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.frmAbout.resources
+G:\Docs\Prvt\AlgoTrading\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.frmParameters.resources
+G:\Docs\Prvt\AlgoTrading\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.PredictFXChartsMain.resources
+G:\Docs\Prvt\AlgoTrading\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.Properties.Resources.resources
+G:\Docs\Prvt\AlgoTrading\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.csproj.GenerateResource.cache
+G:\Docs\Prvt\AlgoTrading\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.csproj.CoreCompileInputs.cache
+G:\Docs\Prvt\AlgoTrading\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.csproj.CopyComplete
+G:\Docs\Prvt\AlgoTrading\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.exe
+G:\Docs\Prvt\AlgoTrading\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.pdb
+G:\Docs\Prvt\AlgoTrading\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.csprojAssemblyReference.cache
+C:\Utils\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\consoledb2.mdf
+C:\Utils\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\consoledb2_log.ldf
+C:\Utils\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\PredictFXCharts.exe.config
+C:\Utils\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\PredictFXCharts.exe
+C:\Utils\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\PredictFXCharts.pdb
+C:\Utils\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\Moq.dll
+C:\Utils\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\NDde.dll
+C:\Utils\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\netchartdir.dll
+C:\Utils\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\Npgsql.dll
+C:\Utils\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Utils\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Utils\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Utils\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\System.ValueTuple.dll
+C:\Utils\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\Moq.pdb
+C:\Utils\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\Moq.xml
+C:\Utils\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\NDde.pdb
+C:\Utils\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\NDde.xml
+C:\Utils\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\netchartdir.xml
+C:\Utils\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\Npgsql.pdb
+C:\Utils\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\Npgsql.xml
+C:\Utils\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Utils\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Utils\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\bin\Debug\System.ValueTuple.xml
+C:\Utils\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.frmAbout.resources
+C:\Utils\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.frmParameters.resources
+C:\Utils\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.PredictFXChartsMain.resources
+C:\Utils\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.Properties.Resources.resources
+C:\Utils\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.csproj.GenerateResource.cache
+C:\Utils\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.csproj.CoreCompileInputs.cache
+C:\Utils\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.csproj.CopyComplete
+C:\Utils\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.exe
+C:\Utils\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.pdb
+C:\Utils\PFXCharts_LocalDB_OS\PredictFXCharts LocalDB\PredictFXCharts\obj\Debug\PredictFXCharts.csprojAssemblyReference.cache

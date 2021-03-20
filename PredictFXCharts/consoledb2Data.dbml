@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="consoledb2" Class="consoledb2DataDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\consoledb2.mdf;Integrated Security=True;Connect Timeout=30" SettingsObjectName="PredictFXCharts.Properties.Settings" SettingsPropertyName="consoledb2DataContextConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.orders" Member="orders">
+    <Type Name="orders">
+      <Column Name="id" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="stock" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="tradetypeid" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="price" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="orderdatetime" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="executeddatetime" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="OrderNum" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="TradeNum" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="active" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="qty" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Association Name="stocks_orders" Member="stocks" ThisKey="stock" OtherKey="id" Type="stocks" IsForeignKey="true" />
+      <Association Name="tradetypes_orders" Member="tradetypes" ThisKey="tradetypeid" OtherKey="id" Type="tradetypes" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.positions" Member="positions">
+    <Type Name="positions">
+      <Column Name="id" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="stock" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="priceopen" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="qty" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="opened" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="closed" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="active" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="priceclose" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="tradetypeid" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="openqty" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Association Name="stocks_positions" Member="stocks" ThisKey="stock" OtherKey="id" Type="stocks" IsForeignKey="true" />
+      <Association Name="tradetypes_positions" Member="tradetypes" ThisKey="tradetypeid" OtherKey="id" Type="tradetypes" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.settingquotes" Member="settingquotes">
+    <Type Name="settingquotes">
+      <Column Name="id" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="stock" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="timeframe" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="seccode" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="classcode" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="classname" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="optionbase" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="matdate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="daystomatdate" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="numbidsopen" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="numbidshigh" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="numbidslow" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="numbidsclose" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="numoffersopen" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="numoffershigh" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="numofferslow" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="numoffersclose" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="biddepthtopen" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="biddepththigh" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="biddepthtlow" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="biddepthtclose" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="offerdepthtopen" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="offerdepththigh" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="offerdepthtlow" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="offerdepthtclose" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="voltoday" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="valtoday" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="numtrades" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="numcontractsopen" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="numcontractshigh" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="numcontractslow" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="numcontractsclose" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="selldepo" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="buydepo" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="datetime" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="strike" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="optiontype" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="volatility" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Association Name="stocks_settingquotes" Member="stocks" ThisKey="stock" OtherKey="id" Type="stocks" IsForeignKey="true" />
+      <Association Name="timeframes_settingquotes" Member="timeframes" ThisKey="timeframe" OtherKey="id" Type="timeframes" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.stocks" Member="stocks">
+    <Type Name="stocks">
+      <Column Name="id" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ticker" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="enddate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="pricestep" Type="System.Single" DbType="Real" CanBeNull="true" />
+      <Column Name="active" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Association Name="stocks_orders" Member="orders" ThisKey="id" OtherKey="stock" Type="orders" />
+      <Association Name="stocks_positions" Member="positions" ThisKey="id" OtherKey="stock" Type="positions" />
+      <Association Name="stocks_settingquotes" Member="settingquotes" ThisKey="id" OtherKey="stock" Type="settingquotes" />
+      <Association Name="stocks_valueatrisk" Member="valueatrisk" ThisKey="id" OtherKey="stock" Type="valueatrisk" />
+      <Association Name="stocks_tickquotes" Member="tickquotes" ThisKey="id" OtherKey="stock" Type="tickquotes" />
+      <Association Name="stocks_volquotes" Member="volquotes" ThisKey="id" OtherKey="stock" Type="volquotes" />
+    </Type>
+  </Table>
+  <Table Name="dbo.timeframes" Member="timeframes">
+    <Type Name="timeframes">
+      <Column Name="id" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="timeframename" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="timeframemin" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="timeframesec" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="active" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Association Name="timeframes_settingquotes" Member="settingquotes" ThisKey="id" OtherKey="timeframe" Type="settingquotes" />
+      <Association Name="timeframes_valueatrisk" Member="valueatrisk" ThisKey="id" OtherKey="timeframe" Type="valueatrisk" />
+      <Association Name="timeframes_volquotes" Member="volquotes" ThisKey="id" OtherKey="timeframe" Type="volquotes" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tradetypes" Member="tradetypes">
+    <Type Name="tradetypes">
+      <Column Name="id" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="type" Type="System.String" DbType="VarChar(25) NOT NULL" CanBeNull="false" />
+      <Association Name="tradetypes_orders" Member="orders" ThisKey="id" OtherKey="tradetypeid" Type="orders" />
+      <Association Name="tradetypes_positions" Member="positions" ThisKey="id" OtherKey="tradetypeid" Type="positions" />
+      <Association Name="tradetypes_tickquotes" Member="tickquotes" ThisKey="id" OtherKey="tradetypeid" Type="tickquotes" />
+    </Type>
+  </Table>
+  <Table Name="dbo.valueatrisk" Member="valueatrisk">
+    <Type Name="valueatrisk">
+      <Column Name="id" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="stock" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="timeframe" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="datetime" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="volquoteid" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="value" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="buydepo" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Association Name="stocks_valueatrisk" Member="stocks" ThisKey="stock" OtherKey="id" Type="stocks" IsForeignKey="true" />
+      <Association Name="timeframes_valueatrisk" Member="timeframes" ThisKey="timeframe" OtherKey="id" Type="timeframes" IsForeignKey="true" />
+      <Association Name="volquotes_valueatrisk" Member="volquotes" ThisKey="volquoteid" OtherKey="id" Type="volquotes" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tickquotes" Member="tickquotes">
+    <Type Name="tickquotes">
+      <Column Name="id" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="stock" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="datetime" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="price" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="volume" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="volumebuy" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="volumesell" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="tradetypeid" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Association Name="stocks_tickquotes" Member="stocks" ThisKey="stock" OtherKey="id" Type="stocks" IsForeignKey="true" />
+      <Association Name="tradetypes_tickquotes" Member="tradetypes" ThisKey="tradetypeid" OtherKey="id" Type="tradetypes" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.volquotes" Member="volquotes">
+    <Type Name="volquotes">
+      <Column Name="id" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="stock" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="timeframe" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="datetime" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="high" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="low" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="[open]" Member="open" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="[close]" Member="close" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="middle" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="volume" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="volumebuy" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="volumesell" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Association Name="volquotes_valueatrisk" Member="valueatrisk" ThisKey="id" OtherKey="volquoteid" Type="valueatrisk" />
+      <Association Name="stocks_volquotes" Member="stocks" ThisKey="stock" OtherKey="id" Type="stocks" IsForeignKey="true" />
+      <Association Name="timeframes_volquotes" Member="timeframes" ThisKey="timeframe" OtherKey="id" Type="timeframes" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>
